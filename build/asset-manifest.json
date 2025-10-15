@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a4e0236.css",
+    "main.js": "/static/js/main.91495420.js",
+    "static/media/California.svg": "/static/media/California.e24b7466302569069e2a8dac4d22e015.svg",
+    "static/media/Sushi.svg": "/static/media/Sushi.22a81d9d939e2d534586c611ded521b9.svg",
+    "static/media/Maki.svg": "/static/media/Maki.c0610db81bfea7ae838d23d6f728d263.svg",
+    "static/media/Brochette boeuf fro.svg": "/static/media/Brochette boeuf fro.94b3d55ee92459b18882d8a0e446891f.svg",
+    "static/media/Miso.svg": "/static/media/Miso.16f0e2662e88fb9859980c41b7ac5ad7.svg",
+    "static/media/Brochette viande.svg": "/static/media/Brochette viande.0484649a84e848de3d101a795f0558c8.svg",
+    "static/media/Kanji-left.svg": "/static/media/Kanji-left.fcfc8b395f2458462f2df1734a756247.svg",
+    "static/media/Kanji-right.svg": "/static/media/Kanji-right.fd08b09b9e0f0debdcb627f2f1090512.svg",
+    "static/media/Kanji book.svg": "/static/media/Kanji book.effbcd5b596402319531ee6bea840911.svg",
+    "index.html": "/index.html",
+    "static/media/mjp-icon.svg": "/static/media/mjp-icon.2d0543f7862c2faa30832459a8414e2b.svg",
+    "static/media/Kanji sun.svg": "/static/media/Kanji sun.fcb642bff9b2e300df72ebb889399663.svg",
+    "main.3a4e0236.css.map": "/static/css/main.3a4e0236.css.map",
+    "main.91495420.js.map": "/static/js/main.91495420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a4e0236.css",
+    "static/js/main.91495420.js"
+  ]
+}
