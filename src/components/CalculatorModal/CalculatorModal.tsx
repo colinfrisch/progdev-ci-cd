@@ -47,6 +47,10 @@ export const CalculatorModal: React.FC<Props> = (props: Props) => {
     return acc + values[itemName].kcal;
   }, 0);
 
+  const handleReset = () => {
+    setValues({});
+  };
+
   return (
     <Dialog onClose={onClose} open={open} maxWidth={"md"}>
       <div className={classes.closeContainer}>
@@ -68,6 +72,9 @@ export const CalculatorModal: React.FC<Props> = (props: Props) => {
           ))}
         </div>
         <div className={classes.buttonContainer}>
+          <Button variant="outlined" onClick={handleReset} style={{ marginRight: 12 }}>
+            Reset
+          </Button>
           <Button variant="contained">{result} Kcal</Button>
         </div>
       </DialogContent>
